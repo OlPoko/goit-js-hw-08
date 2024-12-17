@@ -1,4 +1,9 @@
 
+* {
+  box-sizing: border-box;
+    list-style: none;
+   
+}
 .js-gallery {
     display: flex;
     flex-wrap: wrap;
